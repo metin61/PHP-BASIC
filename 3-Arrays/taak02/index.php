@@ -8,7 +8,7 @@
     <?php
       $myDogNames = array("woof" ,  "boris" ,  "arnold");
       echo $myDogNames [0];
-      echo $myDogNames [1];
+      echo $myDogNames [1] = 'cheetah';
       echo $myDogNames [2];
       
     ?>
